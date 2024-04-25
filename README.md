@@ -1,5 +1,5 @@
 
-[![GitHub release](https://img.shields.io/github/release/wagiro/BurpBounty.svg)](https://github.com/wagiro/BurpBounty/releases) 
+[![GitHub release][def]][def2] 
 [![GitHub issues](https://img.shields.io/github/issues/wagiro/BurpBounty.svg)](https://github.com/wagiro/BurpBounty/issues) 
 [![GitHub Downloads](https://img.shields.io/github/downloads/wagiro/BurpBounty/total.svg)]() 
 [![Github Stars](https://img.shields.io/github/stars/wagiro/BurpBounty.svg?style=social&label=Stars)](https://github.com/wagiro/BurpBounty/) 
@@ -61,3 +61,7 @@ All of them have contributed by sharing their Burp Bounty profiles
 
 * Thanks to [Nexsus](https://twitter.com/Nexsus1985) for helping me to detect errors in the extension and thus be able to solve them.
 
+
+
+[def]: https://img.shields.io/github/release/wagiro/BurpBounty.svg
+[def2]: https://github.com/wagiro/BurpBounty/releases
